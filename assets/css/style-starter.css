@@ -14572,6 +14572,7 @@ fieldset:disabled .btn {
     content: "\f2db";
 }
 
+
 /*+++++++++++++++*/
 .fa-heart:before {
     content: "\f004";
@@ -18050,6 +18051,9 @@ p.white {
         max-width: 960px;
         margin-right: auto;
         margin-left: auto;
+    }
+    .namecompany{
+        
     }
 }
 
