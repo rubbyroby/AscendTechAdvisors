@@ -7083,6 +7083,8 @@ fieldset:disabled .btn {
     }
 }
 
+
+
 @media (min-width:992px) {
     .sticky-lg-top {
         position: -webkit-sticky;
@@ -18048,7 +18050,7 @@ p.white {
 
 @media (min-width: 992px) {
     .container {
-        max-width: 960px;
+        max-width: 940px;
         margin-right: auto;
         margin-left: auto;
     }
@@ -18812,7 +18814,7 @@ a.search-search:hover {
 
 @media only screen and (max-width: 480px) {
     .navbar .navbar-brand {
-        font-size: 30px;
+        font-size: 20px;
     }
 
     .w3l-formhny {
